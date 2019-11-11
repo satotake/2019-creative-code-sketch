@@ -12,5 +12,10 @@
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
     "typescript": "^3.6.4"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.6",
+    "three": "^0.110.0",
+    "three-orbitcontrols": "^2.110.1"
   }
 }
